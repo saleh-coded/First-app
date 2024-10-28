@@ -47,7 +47,4 @@ export default function App() {
   );
 }
 
-// div -> View
-// p,  h1-h6 -> Text
-// buttons -> Button / Touchable Opacity
-// img -> Image
+
