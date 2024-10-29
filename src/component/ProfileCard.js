@@ -41,7 +41,7 @@ const ProfileCard = () => {
               fontWeight: "bold",
             }}
           >
-            Aya Alsakkaf
+            Saleh Test
           </Text>
 
           <Text>Kuwait City</Text>
